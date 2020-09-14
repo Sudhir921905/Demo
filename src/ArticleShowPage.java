@@ -60,6 +60,14 @@ public class ArticleShowPage
 		
 		
 		driver.quit();
+		helloworld();
+		
+	}
+
+	private static void helloworld() {
+		// TODO Auto-generated method stub
+		
+		System.out.println("hello world");
 		
 	}
 }
